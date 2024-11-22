@@ -1,0 +1,10 @@
+.layout {
+  min-height: 100vh;
+}
+.ant-list-item {
+  padding: 10px;
+  border-bottom: 1px solid #f0f0f0;
+}
+.ant-input {
+  border-radius: 5px;
+}
